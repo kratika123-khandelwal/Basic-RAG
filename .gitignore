@@ -1,3 +1,4 @@
-basicragenv
-
+basicragenv/
 .env
+__pycache__/
+.ipynb_checkpoints/
